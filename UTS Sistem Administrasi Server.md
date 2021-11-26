@@ -9,8 +9,7 @@ Kelas  : IT 02 02
 ## Installation Windows Server 2022 using VirtualBox
 
 - Download ISO Installer Windows Server 2022
-  [Windows Server 2022] : https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
-
+  Windows Server 2022 : https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 - Steps To Install Windows Server 2022 using VirtualBox VM
   
   - Open VirtualBox and Create "New"
@@ -51,7 +50,7 @@ Kelas  : IT 02 02
   - Enter Administrator Password and press "Enter"
     ![lg](https://user-images.githubusercontent.com/49325037/143592812-ad8ab8f3-bc41-4768-abd2-2e09d7f80ace.PNG)
   - Windows Server 2022 installation with GUI (Desktop Experience) is complete and can be used
-   ![finis](https://user-images.githubusercontent.com/49325037/143592921-4695600b-0bcd-4703-a4e7-6758ea9fd94e.PNG)
+    ![finis](https://user-images.githubusercontent.com/49325037/143592921-4695600b-0bcd-4703-a4e7-6758ea9fd94e.PNG)
   - 
 
 ## Installation Active Directory Domain Services
